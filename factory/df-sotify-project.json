@@ -1,0 +1,15 @@
+{
+	"name": "df-sotify-project",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ecf151a5-a870-4d42-9b09-065130b5e96e",
+		"tenantId": "b3f7594e-eeb3-4a1c-9ded-42ef3aec3d31"
+	}
+}
